@@ -1,0 +1,48 @@
+# The 'type' should be "label" for short meta tags and "text" for ones which
+# could get longer, especially ones which use a textarea field instead of a
+# textfield.
+metatag.metatag_tag.schema_accommodation_description:
+  type: text
+  label: 'description'
+metatag.metatag_tag.schema_accommodation_image:
+  type: text
+  label: 'image'
+metatag.metatag_tag.schema_accommodation_name:
+  type: text
+  label: 'name'
+metatag.metatag_tag.schema_accommodation_telephone:
+  type: text
+  label: 'telephone'
+metatag.metatag_tag.schema_accommodation_type:
+  type: text
+  label: '@type'
+metatag.metatag_tag.schema_accommodation_address:
+  type: text
+  label: 'address'
+metatag.metatag_tag.schema_accommodation_geo:
+  type: text
+  label: 'geo'
+metatag.metatag_tag.schema_accommodation_url:
+  type: text
+  label: 'url'
+metatag.metatag_tag.schema_accommodation_pets_allowed:
+  type: text
+  label: 'petsAllowed'
+metatag.metatag_tag.schema_accommodation_smoking_allowed:
+  type: text
+  label: 'smokingAllowed'
+metatag.metatag_tag.schema_accommodation_bed:
+  type: text
+  label: 'bed'
+metatag.metatag_tag.schema_accommodation_number_of_full_bathrooms:
+  type: text
+  label: 'numberOfFullBathrooms'
+metatag.metatag_tag.schema_accommodation_number_of_partial_bathrooms:
+  type: text
+  label: 'numberOfPartialBathrooms'
+metatag.metatag_tag.schema_accommodation_occupancy:
+  type: text
+  label: 'occupancy'
+metatag.metatag_tag.schema_accommodation_amenity_feature:
+  type: text
+  label: 'amenityFeature'

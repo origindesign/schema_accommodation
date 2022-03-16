@@ -1,0 +1,10 @@
+name: Schema.org Accommodation
+type: module
+description: Adds Schema.org/Accommodation to the JSON LD array.
+core_version_requirement: ^8 || ^9
+package: SEO
+dependencies:
+  - schema_metatag:schema_metatag
+version: '8.x-1.0'
+project: 'schema_metatag'
+datestamp: 1619640199

@@ -1,0 +1,16 @@
+{
+    "name": "origindesign/schema_accommodation",
+    "description": "Adds Schema.org/Accommodation to the JSON LD array.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lindsay Wilson",
+            "email": "lwilson@origindesign.ca"
+        }
+    ],
+    "type": "drupal-custom-module",
+    "require": {
+		"php": ">=7.4"
+    },
+	"minimum-stability": "dev"
+}
